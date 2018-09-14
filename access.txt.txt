@@ -1,0 +1,10 @@
+Стек:
+ - modx Evolution v1.4.5;
+ - PHP v7.2;
+ - MySql v5.6;
+ - Apach v7.2;
+
+Доступ:
+
+имя: admin
+пароль: adminuser
